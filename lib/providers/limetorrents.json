@@ -1,6 +1,6 @@
 {
     "name": "Limetorrents",
-    "baseUrl": "https://www.limetorrents.info",
+    "baseUrl": "https://www.limetorrents.lol/",
     "enableCloudFareBypass": true,
     "searchUrl": "/search/{cat}/{query}/seeds/1/",
     "categories": {
