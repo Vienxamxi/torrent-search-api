@@ -1,6 +1,6 @@
 {
     "name": "Eztv",
-    "baseUrl": "https://eztv.re",
+    "baseUrl": "https://eztvx.to",
     "searchUrl": "/search/{query}",
     "categories": {
        "All": ""
